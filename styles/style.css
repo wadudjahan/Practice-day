@@ -138,3 +138,139 @@ body, html {
     margin-top: 100px;
     text-align: left;
 }
+
+.food{
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding: 30px;
+}
+.shelter{
+    background-color:burlywood;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.education{
+    background-color:khaki;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.lives{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.article{
+    margin-top: 150px;
+}
+.lives-title{
+font-size: 60px;
+font-weight: bold;
+margin-left: 100px;
+}
+
+.lives-description{
+    margin-left: 100px;
+    font-size: 30px;
+    margin-top: 10px;
+    color: rgb(151, 150, 150);
+}
+
+.btn-third{
+    background-color:rgb(255, 89, 89);
+    color: white;
+    font-size: 20px;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 27px;
+    height: 40px;
+    margin-top:15px;
+    margin-left: 100px;
+}
+
+.pic{
+    width: 600px;
+     height: 400px; 
+     margin-top: 50px; 
+     border-radius: 5px;
+}
+
+.pic-two{
+     width: 700px;
+     height: 400px; 
+     margin-top: 50px; 
+     border-radius: 5px;
+     margin-left: 150px;
+
+}
+
+.article-survive{
+    margin-left: 140px;
+    margin-top: 140px;
+}
+
+.updates-title{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+.updates-description{
+    text-align: center;
+    font-size: 30px;
+    margin: 30px 300px;
+    color: rgb(151, 150, 150);
+}
+
+.email{
+    background-color: khaki;
+    text-align: center;
+    margin: 30px 300px;
+    padding: 60px 150px;
+}
+
+.email-text{
+    height: 47px;
+    width: 300px;
+    border-radius: 8px;
+    border-style: none;
+    background-color: rgb(236, 226, 226);
+    font-size: medium;
+    font-weight: bold;
+}
+
+.btn-fourth{
+    background-color:rgb(255, 89, 89);
+    color: white;
+    font-size: 20px;
+    border: 0;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    height: 46px;
+    margin-top:16px;
+    margin-left: -8px;
+    border-top: 5px transparent;
+}
+
+.footer{
+    background-color: black;
+    text-align: center;
+}
+
+.footer-title{
+    font-family:fantasy ;
+    font-size: 70px;
+    color: orangered;
+}
+
+.footer-slogan{
+    color:white ;
+    font-size: small;
+    
+}
